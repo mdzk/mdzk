@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**mdzk/mdzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Trejocode](https://res.cloudinary.com/trejocode/image/upload/v1586298449/Trejocode/logo_t0otlj.png)
 
-Here are some ideas to get you started:
+## Hola 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My name is Dzaky, I am 21 year old, Management Information student..
+
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning nodejs, laravel, and ui desinger 
+- 📫 You can reach me at my instagram @mdzak_
+- 😄 I'm natively speak Indonesian and fluently speak english.
+- ⚡ Fun fact: i like cats
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mdzaky/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mdzak_/) [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://dribbble.com/mdzaky)
