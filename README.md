@@ -1,6 +1,3 @@
-
-![Trejocode](https://res.cloudinary.com/trejocode/image/upload/v1586298449/Trejocode/logo_t0otlj.png)
-
 ## Hola 👋
 
 #### My name is Dzaky, I am 21 year old, Management Information student..
